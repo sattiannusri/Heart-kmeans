@@ -1,1 +1,1 @@
-# K-means clustering on heart failure data
+# K-means clustering of heart failure dataset
